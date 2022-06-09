@@ -1,7 +1,7 @@
 A simple users management (insert, update, delete, find by id) project in spring boot, phpmyadmin MySQL database.
 
 ### Demo
-[![Youtube Video](https://img.youtube.com/vi/SShpIJpJmhc/0.jpg)](https://www.youtube.com/watch?v=SShpIJpJmhc)
+[![Youtube Video](https://img.youtube.com/vi/SShpIJpJmhc/maxresdefault.jpg)](https://www.youtube.com/watch?v=SShpIJpJmhc)
 
 ### Requirements
 * Spring Boot 2.7.0
