@@ -1,8 +1,12 @@
 A simple users management (insert, update, delete, find by id) project in spring boot, phpmyadmin MySQL database.
 
-### Requirment
+### Demo
+[![Youtube Video](https://img.youtube.com/vi/SShpIJpJmhc/0.jpg)](https://www.youtube.com/watch?v=SShpIJpJmhc)
+
+### Requirements
 * Spring Boot 2.7.0
 * Java Version 17
+* Xampp (to run use MYSQL)
 
 ### Dependencies
 * spring-boot-starter-data-jpa
@@ -20,6 +24,7 @@ spring.datasource.username=root
 spring.datasource.driver-class-name=com.mysql.cj.jdbc.Driver
 spring.jpa.database-platform=org.hibernate.dialect.MySQL5Dialect
 ```
+
 ### database columns
 `database.sql` also uploaded in root folder, you can use it or create new database with those fields.
 
